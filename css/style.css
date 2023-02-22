@@ -466,7 +466,7 @@ footer {
 
 h3 {
   color: #25292e;
-  display: inline-block;
+  /* display: inline-block;*/
   font-size: 1.25em;
   margin-bottom: 4px;
   position: relative;
