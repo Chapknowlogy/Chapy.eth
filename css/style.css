@@ -510,6 +510,15 @@ h3:active {
   will-change: transform;
 }
 
+button {
+  padding:10px 25px;
+  color:#fff;
+  background-color:#000;
+  font-weight:regular;
+  border-radius: 25px;
+  font-size:18px;
+}
+
 @keyframes rainbow-button {
   0%,
   100% {
