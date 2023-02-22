@@ -476,8 +476,8 @@ h3 {
 }
 
 footer p {
-  color: rgba(60, 66, 82, 0.4);
-  font-size: 1.125em;
+  color: #000;
+  font-size: 14px;
   font-weight: 400;
 }
 
