@@ -84,9 +84,20 @@ h1 {
   color: #25292e;
   font-size: 2.75em;
   line-height: 1em;
-  /*margin: 0 auto 30px auto;
-  max-width: 632px;
-  padding: 78px 24px 0 24px;*/
+  margin: 0 auto 30px auto;
+  /*max-width: 632px;*/
+  padding: 78px 24px 0 24px;
+  text-align: center;
+  font-weight:bold;
+}
+
+h2 {
+  color: #25292e;
+  font-size: 1.75em;
+  line-height: 1em;
+  margin: 0 auto 30px auto;
+  /*max-width: 632px;*/
+  padding: 78px 24px 0 24px;
   text-align: center;
   font-weight:bold;
 }
