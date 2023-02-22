@@ -524,6 +524,7 @@ button {
   font-weight:regular;
   border-radius: 25px;
   font-size:18px;
+  max-width:75%;
 }
 
 @keyframes rainbow-button {
