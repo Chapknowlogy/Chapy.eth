@@ -3,11 +3,6 @@ body {
   color: black;
 }
 
-.dark-mode {
-  background-color: black;
-  color: white;
-}
-
 @keyframes animatedBackground_a {
     0% { background-position: 0 0 }
     100% { background-position: -500px 0 }
