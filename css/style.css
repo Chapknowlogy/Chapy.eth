@@ -81,8 +81,6 @@ h6 {
 }
 
 h1 {
-  color: #25292e;
-  font-size: 2.75em;
   line-height: 1em;
   margin: 0 auto 10px auto;
   /*max-width: 632px;*/
@@ -99,32 +97,24 @@ h2 {
 }
 
 .button-wrapper {
-  /*align-items: center;
-  display: flex;
-  flex-direction: row;
-  flex-wrap: wrap;
-  justify-content: center;
-  transition: 0.125s ease;*/
    margin-bottom: 10px;
 }
-/*.button-wrapper.extended {
-  transform: translateX(-84.5px);
-}*/
 
 button {
   padding:10px 25px;
-  color:#fff;
-  background-color:#000;
+  color:#000;
+  border: solid 1px #837f5b;
+  background-color:#a5a072;
   border-radius: 25px;
   font-size:18px;
   width:90%;
-  max-width:500px;
+  max-width:550px;
   display:block;
   margin:0 auto;
 }
 
 ::selection {
-  background: rgba(165, 160, 114, 0.2);
+  background: rgba (165, 160, 114, 0.2);
   color: #a5a072;
 }
 ::-moz-selection {
@@ -480,7 +470,6 @@ footer {
 }
 
 h3 {
-  color: #25292e;
   /* display: inline-block;*/
   font-size: 1.25em;
   margin-bottom: 4px;
@@ -502,18 +491,6 @@ footer a {
   display: block;
   padding: 8px 0 10px 0;
 }
-
-h3 {
-  transition: 0.125s ease;
-  will-change: transform;
-}
-h3:hover {
-  animation: rainbow-links 2s infinite;
-}
-h3:active {
-  transform: scale(0.9);
-}
-
 .divider {
   background: rgba(102, 106, 115, 0.04);
   border-radius: 1px;
@@ -675,12 +652,6 @@ h3:active {
 
   .nav-twitter:before {
     top: 0;
-  }
-
-  h1 {
-    font-size: 2.5em;
-    margin-bottom: 30px;
-    padding-top: 58px;
   }
 
   #android-button.extended {
