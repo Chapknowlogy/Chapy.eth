@@ -98,6 +98,29 @@ h2 {
   font-weight:bold;
 }
 
+.button-wrapper {
+  /*align-items: center;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  transition: 0.125s ease;*/
+   margin-bottom: 10px;
+}
+/*.button-wrapper.extended {
+  transform: translateX(-84.5px);
+}*/
+
+button {
+  padding:10px 25px;
+  color:#fff;
+  background-color:#000;
+  border-radius: 25px;
+  font-size:18px;
+  width:50%;
+  max-width:75%;
+}
+
 ::selection {
   background: rgba(164, 47, 255, 0.2);
   color: #a42fff;
@@ -190,19 +213,6 @@ nav ul a:active {
   position: absolute;
   top: 1px;
   width: 15px;
-}
-
-.button-wrapper {
-  align-items: center;
-  display: flex;
-  flex-direction: row;
-  flex-wrap: wrap;
-  justify-content: center;
-  margin-bottom: 30px;
-  transition: 0.125s ease;
-}
-.button-wrapper.extended {
-  transform: translateX(-84.5px);
 }
 
 #app-store-button {
@@ -515,16 +525,6 @@ h3:active {
   pointer-events: none;
   position: absolute;
   will-change: transform;
-}
-
-button {
-  padding:10px 25px;
-  color:#fff;
-  background-color:#000;
-  font-weight:regular;
-  border-radius: 25px;
-  font-size:18px;
-  max-width:75%;
 }
 
 @keyframes rainbow-button {
