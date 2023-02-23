@@ -27,6 +27,7 @@ h1 {
   line-height: 1em;
   margin: 0 auto 10px auto;
   text-align: center;
+  font-weight:bold;
 }
 
 h1.header-text{
