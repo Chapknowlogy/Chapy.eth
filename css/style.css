@@ -103,21 +103,8 @@ button {
 nav {
   height: 50px;
   margin: 0 auto;
-  max-width: 1080px;
   padding: 0 24px;
   position: relative;
-  top: 30px;
-}
-
-.nav-logo {
-  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
-  background: url(images/rainbow-logo.png) center no-repeat;
-  background-size: 170px 50px;
-  display: block;
-  float: left;
-  height: 50px;
-  margin-left: -9px;
-  width: 170px;
 }
 
 nav ul {
