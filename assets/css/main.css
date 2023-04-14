@@ -199,7 +199,7 @@ button:focus {
 }
 
 .social-icon li a {
-  color: #00a5ba;
+  color: #222; /* Blue #00a5ba */
   background: #fff;
   width: 35px;
   height: 35px;
