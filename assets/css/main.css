@@ -746,8 +746,8 @@ a.back-to-top:hover, a.back-to-top:focus {
   height: 100%;
   top: 0px;
   left: 0px;
-  background: #0c0808;
-  opacity: 0.6;
+  /* background: #0c0808; */
+  /* opacity: 0.6; */
 }
 
 #hero-area .contents {
