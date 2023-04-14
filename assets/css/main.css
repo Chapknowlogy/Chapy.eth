@@ -1081,17 +1081,17 @@ a:not([href]):not([tabindex]):focus, a:not([href]):not([tabindex]):hover {
 
 /* Footer Area Start */
 .footer-area {
-  background: #f4e62d;
+  background: #ccc;
 }
 
 .footer-area .footer-text p {
   font-size: 14px;
   margin-top: 20px;
-  color: #00a5ba;
+  color: #222;
 }
 
 .footer-area .footer-text p a {
-  color: #00a5ba;
+  color: #222;
 }
 
 .footer-area .footer-text .nav-inline .nav-link {
