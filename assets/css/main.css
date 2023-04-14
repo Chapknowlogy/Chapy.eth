@@ -718,13 +718,16 @@ a.back-to-top:hover, a.back-to-top:focus {
 .hero-area-bg {
   background: url(../img/hero-image.jpg) no-repeat;
   background-size: cover;
+  overflow: scroll;
+  height:auto;
+  width:100%;
 }
 .hero-area-bg-itc {
   background: url(../img/itc/itc-cover-prm4500td.jpg) no-repeat;
   background-size: cover;
-	overflow: scroll;
-	height:auto;
-	width:100%;
+  overflow: scroll;
+  height:auto;
+  width:100%;
   
 }
 
