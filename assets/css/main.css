@@ -729,7 +729,7 @@ a.back-to-top:hover, a.back-to-top:focus {
 }
 
 #hero-area {
-  color: #fff;
+  color: #222; /* WAS #fff */
   overflow: hidden;
   position: relative;
 }
@@ -760,7 +760,7 @@ a.back-to-top:hover, a.back-to-top:focus {
 
 #hero-area .contents .head-title {
   color: #222;
-  font-size: 60px;
+  font-size: 5em;
   letter-spacing: 5px;
   text-transform: uppercase;
   font-weight: 700;
