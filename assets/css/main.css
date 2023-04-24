@@ -655,11 +655,11 @@ a.back-to-top:hover, a.back-to-top:focus {
 }
 
 .slicknav_btn {
-  border-color: #00a5ba;
+  border-color: #222;
 }
 
 .slicknav_menu .slicknav_icon-bar {
-  background: #00a5ba;
+  background: #222;
 }
 
 /* only small tablets */
@@ -706,7 +706,7 @@ a.back-to-top:hover, a.back-to-top:focus {
   .slicknav_nav a:hover,
   .slicknav_nav a:focus,
   .slicknav_nav .active {
-    color: #00a5ba;
+    color: #ccc;
     outline: none;
     background: #f8f9fa;
   }
