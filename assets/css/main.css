@@ -558,7 +558,7 @@ a.back-to-top:hover, a.back-to-top:focus {
 }
 
 .navbar li.active a.nav-link {
-  color: #ccc;
+  color: #222;
 }
 
 .dropdown-toggle::after {
